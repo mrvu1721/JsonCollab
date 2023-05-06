@@ -1,28 +1,26 @@
 {
   "DeviceInfo": [
-   {
-    "DeviceID": "0",
+    {
+    "DeviceID1": [
     "DeviceName": "STS1",
     "LoadWeigth": "10000",
     "ActiveDay": "15/02/2001",
     "Status": "Broken",
-   },
-    {
-    "DeviceID": "1",
+    ]
+    },
+    "DeviceID2": {
     "DeviceName": "STS2",
     "LoadWeigth": "20000",
     "ActiveDay": "16/02/2001",
     "Status": "Active",
    },
-    {
-    "DeviceID": "2",
+    "DeviceID3": {
     "DeviceName": "STS3",
     "LoadWeigth": "30000",
     "ActiveDay": "17/02/2001",
     "Status": "Broken",
    },
-    {
-    "DeviceID": "3",
+    "DeviceID4": {
     "DeviceName": "STS4",
     "LoadWeigth": "40000",
     "ActiveDay": "18/02/2001",
