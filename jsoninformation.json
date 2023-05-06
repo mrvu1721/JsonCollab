@@ -1,5 +1,5 @@
 {
-  "DeviceInfo": {
+  "DeviceInfo": [
 {
   "DeviceID1": {
     "DeviceName": "STS1",
@@ -32,5 +32,5 @@
     "Status": "Active",
     }
     }
-  }
+  ]
 }
