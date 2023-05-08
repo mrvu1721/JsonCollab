@@ -5,28 +5,28 @@
     "DeviceName": "STS1",
     "LoadWeigth": "10000",
     "ActiveDay": "15/02/2001",
-    "Status": "Broken",
+    "Status": "Broken"
     },
     {
     "DeviceID": "2",
     "DeviceName": "STS2",
     "LoadWeigth": "20000",
     "ActiveDay": "16/02/2001",
-    "Status": "Unactive",
+    "Status": "Unactive"
     },
     {
     "DeviceID": "3",
     "DeviceName": "STS3",
     "LoadWeigth": "30000",
     "ActiveDay": "17/02/2001",
-    "Status": "Broken",
+    "Status": "Broken"
     },
     {
     "DeviceID": "4",
     "DeviceName": "STS4",
     "LoadWeigth": "40000",
     "ActiveDay": "18/02/2001",
-    "Status": "Active",
+    "Status": "Active"
     }
   ]
 }
